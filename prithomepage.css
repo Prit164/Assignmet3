@@ -1,0 +1,15 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #fff3e6;
+    text-align: left;
+}
+
+h1 {
+    color: #ff6600;
+    font-size: 2em;
+}
+
+p {
+    color: #333;
+    font-style: italic;
+}
